@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/21 17:30:26.000.403,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/21 17:30:26.000.951,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/21 17:31:04.000.582,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/10/21 17:31:04.000.582,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.dfm</Transaction>
+    <Transaction>2024/10/21 17:31:04.000.568,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\A\Desktop\COLA\COLA CSMemoria\Project_COLA_CSMemoriaPCH1.h</Transaction>
+    <Transaction>2024/10/21 17:31:04.000.592,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\A\Desktop\COLA\COLA CSMemoria\Project_COLA_CSMemoria.cbproj</Transaction>
+    <Transaction>2024/10/21 17:31:04.000.582,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/10/21 17:31:18.000.240,C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.h=C:\Users\A\Desktop\COLA\COLA CSMemoria\FORM_COLA_CSMemoria.h</Transaction>
+    <Transaction>2024/10/21 17:31:18.000.240,C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.cpp=C:\Users\A\Desktop\COLA\COLA CSMemoria\FORM_COLA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/10/21 17:31:18.000.240,C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.dfm=C:\Users\A\Desktop\COLA\COLA CSMemoria\FORM_COLA_CSMemoria.dfm</Transaction>
+    <Transaction>2024/10/21 17:33:12.000.085,=C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/10/21 17:33:33.000.342,C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.cpp=C:\Users\A\Desktop\COLA\COLA CSMemoria\UNIT_COLA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/10/21 17:33:33.000.342,C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.h=C:\Users\A\Desktop\COLA\COLA CSMemoria\UNIT_COLA_CSMemoria.h</Transaction>
+    <Transaction>2024/10/21 17:33:49.000.480,=C:\Users\A\Desktop\COLA\COLA CSMemoria\UnitCSMemoria.cpp</Transaction>
+    <Transaction>2024/11/30 16:58:51.000.468,C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\Project_COLA_CSMemoria.cbproj=C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\Project_COLA-PRI_CSMemoria.cbproj</Transaction>
+    <Transaction>2024/11/30 16:58:51.000.453,C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\Project_COLA_CSMemoriaPCH1.h=C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\Project_COLA-PRI_CSMemoriaPCH1.h</Transaction>
+    <Transaction>2024/11/30 16:59:44.000.684,C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\Project_COLA-PRI_CSMemoria.cbproj=C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\Project_COLA_PRI_CSMemoria.cbproj</Transaction>
+    <Transaction>2024/11/30 16:59:44.000.668,C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\Project_COLA-PRI_CSMemoriaPCH1.h=C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\Project_COLA_PRI_CSMemoriaPCH1.h</Transaction>
+    <Transaction>2024/11/30 16:59:53.000.669,C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\FORM_COLA_CSMemoria.cpp=C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\FORM_COLA_PRI_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/30 16:59:53.000.669,C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\FORM_COLA_CSMemoria.dfm=C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\FORM_COLA_PRI_CSMemoria.dfm</Transaction>
+    <Transaction>2024/11/30 16:59:53.000.669,C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\FORM_COLA_CSMemoria.h=C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\FORM_COLA_PRI_CSMemoria.h</Transaction>
+    <Transaction>2024/11/30 17:00:06.000.933,=C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/11/30 17:00:25.000.100,C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\Unit1.h=C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\UNIT_COLA_PRI.h</Transaction>
+    <Transaction>2024/11/30 17:00:25.000.100,C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\Unit1.cpp=C:\Users\A\Desktop\ED1 WINNIPEG\7.2-COLA PRIORIDAD\COLA-PRI CSMemoria\UNIT_COLA_PRI.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

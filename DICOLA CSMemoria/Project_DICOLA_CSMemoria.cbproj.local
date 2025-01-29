@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/18 19:24:50.000.835,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/18 19:24:51.000.110,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/30 15:14:23.000.321,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/30 15:14:23.000.275,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/30 15:14:54.000.401,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\Unit1.h</Transaction>
+    <Transaction>2024/11/30 15:14:54.000.401,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\Unit1.dfm</Transaction>
+    <Transaction>2024/11/30 15:14:54.000.401,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\Project_DICOLA_CSMemoria.cbproj</Transaction>
+    <Transaction>2024/11/30 15:14:54.000.401,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\Unit1.cpp</Transaction>
+    <Transaction>2024/11/30 15:14:54.000.386,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\Project_DICOLA_CSMemoriaPCH1.h</Transaction>
+    <Transaction>2024/11/30 15:15:09.000.965,C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\Unit1.cpp=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\FORM_DICOLA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/30 15:15:09.000.965,C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\Unit1.dfm=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\FORM_DICOLA_CSMemoria.dfm</Transaction>
+    <Transaction>2024/11/30 15:15:09.000.965,C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\Unit1.h=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\FORM_DICOLA_CSMemoria.h</Transaction>
+    <Transaction>2024/11/30 15:18:51.000.381,=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\Unit1.cpp</Transaction>
+    <Transaction>2024/11/30 15:19:08.000.729,C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\Unit1.h=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\UNIT_DICOLA_CSMemoria.h</Transaction>
+    <Transaction>2024/11/30 15:19:08.000.729,C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\Unit1.cpp=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\UNIT_DICOLA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/30 15:20:06.000.798,=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\UnitCSMemoria.cpp</Transaction>
+    <Transaction>2024/11/30 16:08:12.000.525,C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\DICOLA CSMemoria\FORM_DICOLA_CSMemoria.cpp=</Transaction>
+    <Transaction>2024/11/30 16:08:51.000.876,=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\DICOLA CSMemoria\FORM_COLA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/30 16:09:06.000.187,C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\DICOLA CSMemoria\FORM_DICOLA_CSMemoria.h=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\DICOLA CSMemoria\FORM_COLA_CSMemoria.h</Transaction>
+    <Transaction>2024/11/30 16:09:06.000.187,C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\DICOLA CSMemoria\FORM_DICOLA_CSMemoria.dfm=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\DICOLA CSMemoria\FORM_COLA_CSMemoria.dfm</Transaction>
+    <Transaction>2024/11/30 16:09:06.000.187,C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\DICOLA CSMemoria\FORM_DICOLA_CSMemoria.cpp=C:\Users\A\Desktop\ED1 WINNIPEG\7.1-DICOLA\DICOLA CSMemoria\FORM_COLA_CSMemoria.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
