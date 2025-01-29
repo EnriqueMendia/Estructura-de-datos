@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/18 10:27:14.000.114,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/18 10:27:14.000.556,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/18 10:28:02.000.130,C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\Unit1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/10/18 10:28:02.000.130,C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\Unit1.cpp=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/18 10:28:02.000.141,C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\Project_Matriz_Dispersa_COO.cbproj=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/10/18 10:28:02.000.120,C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\Project_Matriz_Dispersa_COOPCH1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/18 10:28:02.000.130,C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\Unit1.dfm=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/18 10:28:33.000.799,C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\FORM_Matriz_Dispersa_COO.cpp=C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\Unit1.cpp</Transaction>
+    <Transaction>2024/10/18 10:28:33.000.799,C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\FORM_Matriz_Dispersa_COO.dfm=C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\Unit1.dfm</Transaction>
+    <Transaction>2024/10/18 10:28:33.000.799,C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\FORM_Matriz_Dispersa_COO.h=C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\Unit1.h</Transaction>
+    <Transaction>2024/10/18 10:28:46.000.946,=C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\Unit1.cpp</Transaction>
+    <Transaction>2024/10/18 10:29:05.000.821,C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\UNIT_Matriz_Dispersa_COO.h=C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\Unit1.h</Transaction>
+    <Transaction>2024/10/18 10:29:05.000.821,C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\UNIT_Matriz_Dispersa_COO.cpp=C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\Unit1.cpp</Transaction>
+    <Transaction>2024/10/18 10:47:36.000.072,=C:\Users\A\Desktop\MATDIS CSMemoria Fila No Comprimida\UnitCSMemoria.cpp</Transaction>
+    <Transaction>2024/11/11 13:40:44.000.325,=C:\Users\A\Desktop\MATRIZ DISPERSA\MATDIS CSMemoria COO\UNIT_PILA_CSMemoria.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

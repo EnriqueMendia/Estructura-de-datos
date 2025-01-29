@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/02 20:45:10.000.623,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/02 20:45:10.000.565,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/02 20:45:42.000.489,C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\ProjectCSMemoria.cbproj=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/10/02 20:45:42.000.423,C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\ProjectCSMemoriaPCH1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/02 20:45:42.000.461,C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\Unit1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/10/02 20:45:42.000.461,C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\Unit1.cpp=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/02 20:45:42.000.461,C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\Unit1.dfm=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/02 20:46:06.000.997,C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\FormCSMemoria.dfm=C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\Unit1.dfm</Transaction>
+    <Transaction>2024/10/02 20:46:06.000.997,C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\FormCSMemoria.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\Unit1.h</Transaction>
+    <Transaction>2024/10/02 20:46:06.000.997,C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\FormCSMemoria.cpp=C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\Unit1.cpp</Transaction>
+    <Transaction>2024/10/02 20:46:18.000.288,=C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\Unit1.cpp</Transaction>
+    <Transaction>2024/10/02 20:46:44.000.309,C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\UnitCSMemoria.cpp=C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\Unit1.cpp</Transaction>
+    <Transaction>2024/10/02 20:46:44.000.309,C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\UnitCSMemoria.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\ED1\Memoria Simulada\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>

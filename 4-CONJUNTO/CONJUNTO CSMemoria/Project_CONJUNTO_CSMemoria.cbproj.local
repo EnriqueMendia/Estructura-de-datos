@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/09 19:09:20.000.964,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/09 19:09:21.000.420,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/09 19:09:47.000.422,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\Project_CONJUNTO_CSMemoria.cbproj</Transaction>
+    <Transaction>2024/11/09 19:09:47.000.412,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/11/09 19:09:47.000.401,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\Project_CONJUNTO_CSMemoriaPCH1.h</Transaction>
+    <Transaction>2024/11/09 19:09:47.000.412,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\Unit1.dfm</Transaction>
+    <Transaction>2024/11/09 19:09:47.000.412,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/11/09 19:10:01.000.112,C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\Unit1.cpp=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\FORM_CONJUNTO_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/09 19:10:01.000.112,C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\Unit1.dfm=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\FORM_CONJUNTO_CSMemoria.dfm</Transaction>
+    <Transaction>2024/11/09 19:10:01.000.112,C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\Unit1.h=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\FORM_CONJUNTO_CSMemoria.h</Transaction>
+    <Transaction>2024/11/09 19:10:37.000.725,=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\UnitCSMemoria.cpp</Transaction>
+    <Transaction>2024/11/09 19:10:41.000.638,=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/11/09 19:11:03.000.318,C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\Unit1.h=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\UNIT_CONJUNTO_CSMemoria.h</Transaction>
+    <Transaction>2024/11/09 19:11:03.000.318,C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\Unit1.cpp=C:\Users\A\Desktop\CONJUNTO\CONJUNTO CSMemoria\UNIT_CONJUNTO_CSMemoria.cpp</Transaction>
+    <Transaction>2024/12/09 17:40:45.000.573,C:\Users\A\Desktop\ED1 WINNIPEG\4-CONJUNTO\CONJUNTO CSMemoria\UnitCSMemoria.cpp=</Transaction>
+    <Transaction>2024/12/09 17:40:51.000.308,=C:\Users\A\Desktop\ED1 WINNIPEG\4-CONJUNTO\CONJUNTO CSMemoria\UnitCSMemoria.cpp</Transaction>
+    <Transaction>2024/12/09 19:13:09.428,=C:\Users\A\Desktop\ED1 WINNIPEG\4-CONJUNTO\CONJUNTO CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/12/09 19:52:37.019,C:\Users\A\Desktop\ED1 WINNIPEG\4-CONJUNTO\CONJUNTO CSMemoria\FUNCIONES_CONJUNTO.h=C:\Users\A\Desktop\ED1 WINNIPEG\4-CONJUNTO\CONJUNTO CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/12/09 19:52:37.019,C:\Users\A\Desktop\ED1 WINNIPEG\4-CONJUNTO\CONJUNTO CSMemoria\FUNCIONES_CONJUNTO.cpp=C:\Users\A\Desktop\ED1 WINNIPEG\4-CONJUNTO\CONJUNTO CSMemoria\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

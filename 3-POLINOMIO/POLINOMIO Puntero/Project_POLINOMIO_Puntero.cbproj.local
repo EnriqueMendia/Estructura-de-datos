@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/08 17:16:45.000.728,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/08 17:16:45.000.299,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/08 17:17:02.000.945,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Project1PCH1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/08 17:17:02.000.955,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Unit1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/11/08 17:17:02.000.966,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Project1.cbproj=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/11/08 17:17:02.000.955,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Unit1.dfm=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/11/08 17:17:02.000.955,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Unit1.cpp=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/08 17:17:24.000.324,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\FORM_POLINOMIO_CSMemoria.h=C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/11/08 17:17:24.000.324,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\FORM_POLINOMIO_CSMemoria.cpp=C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/11/08 17:17:24.000.324,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\FORM_POLINOMIO_CSMemoria.dfm=C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Unit1.dfm</Transaction>
+    <Transaction>2024/11/08 17:17:41.000.175,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Project_POLINOMIO_CSMemoriaPCH1.h=C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/08 17:17:41.000.180,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Project_POLINOMIO_CSMemoria.cbproj=C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Project1.cbproj</Transaction>
+    <Transaction>2024/11/08 17:17:52.000.795,=C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/11/08 17:18:32.000.656,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\UNIT_POLINOMIO_CSMemoria.cpp=C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/11/08 17:18:32.000.656,C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\UNIT_POLINOMIO_CSMemoria.h=C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/11/08 17:22:37.000.832,=C:\Users\A\Desktop\POLINOMIO\POLINOMIO CSMemoria\UnitCSMemoria.cpp</Transaction>
+    <Transaction>2024/12/04 11:36:39.077,C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\FORM_POLINOMIO_Puntero.h=C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\FORM_POLINOMIO_CSMemoria.h</Transaction>
+    <Transaction>2024/12/04 11:36:39.077,C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\FORM_POLINOMIO_Puntero.cpp=C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\FORM_POLINOMIO_CSMemoria.cpp</Transaction>
+    <Transaction>2024/12/04 11:36:39.077,C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\FORM_POLINOMIO_Puntero.dfm=C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\FORM_POLINOMIO_CSMemoria.dfm</Transaction>
+    <Transaction>2024/12/04 11:36:52.465,C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\Project_POLINOMIO_PunteroPCH1.h=C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\Project_POLINOMIO_CSMemoriaPCH1.h</Transaction>
+    <Transaction>2024/12/04 11:36:52.477,C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\Project_POLINOMIO_Puntero.cbproj=C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\Project_POLINOMIO_CSMemoria.cbproj</Transaction>
+    <Transaction>2024/12/04 11:37:03.522,C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\UNIT_POLINOMIO_Puntero.h=C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\UNIT_POLINOMIO_CSMemoria.h</Transaction>
+    <Transaction>2024/12/04 11:37:03.522,C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\UNIT_POLINOMIO_Puntero.cpp=C:\Users\A\Desktop\ED1 WINNIPEG\3-POLINOMIO\POLINOMIO Puntero\UNIT_POLINOMIO_CSMemoria.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

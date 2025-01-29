@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/10 17:18:03.000.127,=C:\Users\Estudiante_2\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/10 17:18:03.000.148,=C:\Users\Estudiante_2\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/10 17:19:29.000.436,C:\Users\Estudiante_2\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Estudiante_2\Desktop\Listas\Lista CSMemoria\FORM_Lista_CSMemoria.dfm</Transaction>
+    <Transaction>2024/10/10 17:19:29.000.436,C:\Users\Estudiante_2\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Estudiante_2\Desktop\Listas\Lista CSMemoria\FORM_Lista_CSMemoria.h</Transaction>
+    <Transaction>2024/10/10 17:19:29.000.436,C:\Users\Estudiante_2\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Estudiante_2\Desktop\Listas\Lista CSMemoria\FORM_Lista_CSMemoria.cpp</Transaction>
+    <Transaction>2024/10/10 17:20:09.000.610,C:\Users\Estudiante_2\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Estudiante_2\Desktop\Listas\Lista CSMemoria\Project_Lista_CSMemoria_PCH1.h</Transaction>
+    <Transaction>2024/10/10 17:20:22.000.940,C:\Users\Estudiante_2\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Estudiante_2\Desktop\Listas\Lista CSMemoria\Project_Lista_CSMemoria.cbproj</Transaction>
+    <Transaction>2024/10/10 17:20:51.000.037,=C:\Users\Estudiante_2\Desktop\Listas\Lista CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/10/10 17:21:14.000.035,C:\Users\Estudiante_2\Desktop\Listas\Lista CSMemoria\Unit1.h=C:\Users\Estudiante_2\Desktop\Listas\Lista CSMemoria\UNIT_Lista_CSMemoria.h</Transaction>
+    <Transaction>2024/10/10 17:21:14.000.035,C:\Users\Estudiante_2\Desktop\Listas\Lista CSMemoria\Unit1.cpp=C:\Users\Estudiante_2\Desktop\Listas\Lista CSMemoria\UNIT_Lista_CSMemoria.cpp</Transaction>
+    <Transaction>2024/10/10 17:28:15.000.280,=C:\Users\Estudiante_2\Desktop\Listas\Lista CSMemoria\UnitCSMemoria.cpp</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="FORM_Lista_CSMemoria.cpp"/>
+    <File Path="FORM_Lista_CSMemoria.cpp"/>
+    <File Path="FORM_Lista_CSMemoria.dfm"/>
+    <File Path="FORM_Lista_CSMemoria.h"/>
+    <File Path="Project_Lista_CSMemoria.cpp"/>
+    <File Path="Project_Lista_CSMemoria_PCH1.h"/>
+    <File Path="UnitCSMemoria.cpp"/>
+    <File Path="UnitCSMemoria.cpp"/>
+    <File Path="UnitCSMemoria.h"/>
+    <File Path="UNIT_Lista_CSMemoria.cpp"/>
+    <File Path="UNIT_Lista_CSMemoria.cpp"/>
+    <File Path="UNIT_Lista_CSMemoria.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

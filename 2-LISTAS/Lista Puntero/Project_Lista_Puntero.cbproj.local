@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/17 14:49:46.000.235,=C:\Users\Estudiante\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/17 14:49:47.000.239,=C:\Users\Estudiante\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/04 15:14:46.000.614,=C:\Users\Estudiante\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/04 15:14:46.000.881,=C:\Users\Estudiante\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/04 15:15:16.000.863,C:\Users\Estudiante\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Estudiante\Desktop\Listas\Lista Puntero\FORM_Lista_Puntero.cpp</Transaction>
+    <Transaction>2024/10/04 15:15:16.000.863,C:\Users\Estudiante\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Estudiante\Desktop\Listas\Lista Puntero\FORM_Lista_Puntero.dfm</Transaction>
+    <Transaction>2024/10/04 15:15:16.000.863,C:\Users\Estudiante\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Estudiante\Desktop\Listas\Lista Puntero\FORM_Lista_Puntero.h</Transaction>
+    <Transaction>2024/10/04 15:15:33.000.109,C:\Users\Estudiante\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Estudiante\Desktop\Listas\Lista Puntero\Project_Lista_Puntero_PCH1.h</Transaction>
+    <Transaction>2024/10/04 15:15:42.000.510,C:\Users\Estudiante\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Estudiante\Desktop\Listas\Lista Puntero\Project_Lista_Puntero.cbproj</Transaction>
+    <Transaction>2024/10/04 15:15:59.000.001,=C:\Users\Estudiante\Desktop\Listas\Lista Puntero\Unit1.cpp</Transaction>
+    <Transaction>2024/10/04 15:16:18.000.280,C:\Users\Estudiante\Desktop\Listas\Lista Puntero\Unit1.h=C:\Users\Estudiante\Desktop\Listas\Lista Puntero\UNIT_Lista_Puntero.h</Transaction>
+    <Transaction>2024/10/04 15:16:18.000.280,C:\Users\Estudiante\Desktop\Listas\Lista Puntero\Unit1.cpp=C:\Users\Estudiante\Desktop\Listas\Lista Puntero\UNIT_Lista_Puntero.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
