@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/19 09:01:29.000.995,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 09:01:29.000.925,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/19 09:02:19.000.349,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\Unit1.dfm</Transaction>
+    <Transaction>2024/10/19 09:02:19.000.349,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/10/19 09:02:19.000.340,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\Project_PILA_ListaCSMPCH1.h</Transaction>
+    <Transaction>2024/10/19 09:02:19.000.357,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\Project_PILA_ListaCSM.cbproj</Transaction>
+    <Transaction>2024/10/19 09:02:19.000.349,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 09:02:31.000.958,C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\Unit1.h=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\FORM_PILA_ListaCSM.h</Transaction>
+    <Transaction>2024/10/19 09:02:31.000.958,C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\Unit1.cpp=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\FORM_PILA_ListaCSM.cpp</Transaction>
+    <Transaction>2024/10/19 09:02:31.000.958,C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\Unit1.dfm=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\FORM_PILA_ListaCSM.dfm</Transaction>
+    <Transaction>2024/10/19 09:02:41.000.939,=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 09:03:14.000.502,C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\Unit1.h=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\UNIT_PILA_ListaCSM.h</Transaction>
+    <Transaction>2024/10/19 09:03:14.000.502,C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\Unit1.cpp=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\UNIT_PILA_ListaCSM.cpp</Transaction>
+    <Transaction>2024/10/19 09:03:20.000.724,=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\UnitCSMemoria.cpp</Transaction>
+    <Transaction>2024/10/19 09:05:25.000.261,=C:\Users\A\Desktop\PILA\PILA Lista CSMemoria\UNIT_Lista_CSMemoria.cpp</Transaction>
+    <Transaction>2024/10/19 10:19:29.136,C:\Users\A\Desktop\PILA\PILA Lista Puntero\FORM_PILA_ListaPTR.cpp=C:\Users\A\Desktop\PILA\PILA Lista Puntero\FORM_PILA_ListaCSM.cpp</Transaction>
+    <Transaction>2024/10/19 10:19:29.136,C:\Users\A\Desktop\PILA\PILA Lista Puntero\FORM_PILA_ListaPTR.dfm=C:\Users\A\Desktop\PILA\PILA Lista Puntero\FORM_PILA_ListaCSM.dfm</Transaction>
+    <Transaction>2024/10/19 10:19:29.136,C:\Users\A\Desktop\PILA\PILA Lista Puntero\FORM_PILA_ListaPTR.h=C:\Users\A\Desktop\PILA\PILA Lista Puntero\FORM_PILA_ListaCSM.h</Transaction>
+    <Transaction>2024/10/19 10:19:52.490,C:\Users\A\Desktop\PILA\PILA Lista Puntero\Project_PILA_ListaPTRPCH1.h=C:\Users\A\Desktop\PILA\PILA Lista Puntero\Project_PILA_ListaCSMPCH1.h</Transaction>
+    <Transaction>2024/10/19 10:19:52.499,C:\Users\A\Desktop\PILA\PILA Lista Puntero\Project_PILA_ListaPTR.cbproj=C:\Users\A\Desktop\PILA\PILA Lista Puntero\Project_PILA_ListaCSM.cbproj</Transaction>
+    <Transaction>2024/10/19 10:20:10.058,C:\Users\A\Desktop\PILA\PILA Lista Puntero\UnitCSMemoria.cpp=</Transaction>
+    <Transaction>2024/10/19 10:20:24.442,C:\Users\A\Desktop\PILA\PILA Lista Puntero\UNIT_Lista_CSMemoria.cpp=</Transaction>
+    <Transaction>2024/10/19 10:20:32.713,=C:\Users\A\Desktop\PILA\PILA Lista Puntero\UNIT_Lista_Puntero.cpp</Transaction>
+    <Transaction>2024/10/19 10:20:46.830,C:\Users\A\Desktop\PILA\PILA Lista Puntero\UNIT_PILA_ListaPTR.h=C:\Users\A\Desktop\PILA\PILA Lista Puntero\UNIT_PILA_ListaCSM.h</Transaction>
+    <Transaction>2024/10/19 10:20:46.830,C:\Users\A\Desktop\PILA\PILA Lista Puntero\UNIT_PILA_ListaPTR.cpp=C:\Users\A\Desktop\PILA\PILA Lista Puntero\UNIT_PILA_ListaCSM.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

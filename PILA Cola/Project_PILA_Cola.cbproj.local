@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/18 19:25:23.000.588,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/18 19:25:23.000.851,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/18 19:25:58.000.918,C:\Users\A\Desktop\PILA\PILA CSMemoria\Unit1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/10/18 19:25:58.000.918,C:\Users\A\Desktop\PILA\PILA CSMemoria\Unit1.cpp=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/18 19:25:58.000.918,C:\Users\A\Desktop\PILA\PILA CSMemoria\Unit1.dfm=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/18 19:25:58.000.931,C:\Users\A\Desktop\PILA\PILA CSMemoria\Project_PILA_CSMemoria.cbproj=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/10/18 19:25:58.000.909,C:\Users\A\Desktop\PILA\PILA CSMemoria\Project_PILA_CSMemoriaPCH1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/18 19:26:17.000.346,C:\Users\A\Desktop\PILA\PILA CSMemoria\FORM_PILA_CSMemoria.cpp=C:\Users\A\Desktop\PILA\PILA CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/10/18 19:26:17.000.346,C:\Users\A\Desktop\PILA\PILA CSMemoria\FORM_PILA_CSMemoria.dfm=C:\Users\A\Desktop\PILA\PILA CSMemoria\Unit1.dfm</Transaction>
+    <Transaction>2024/10/18 19:26:17.000.346,C:\Users\A\Desktop\PILA\PILA CSMemoria\FORM_PILA_CSMemoria.h=C:\Users\A\Desktop\PILA\PILA CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/10/18 19:26:25.000.847,=C:\Users\A\Desktop\PILA\PILA CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/10/18 19:26:41.000.058,C:\Users\A\Desktop\PILA\PILA CSMemoria\UNIT_PILA_CSMemoria.cpp=C:\Users\A\Desktop\PILA\PILA CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/10/18 19:26:41.000.058,C:\Users\A\Desktop\PILA\PILA CSMemoria\UNIT_PILA_CSMemoria.h=C:\Users\A\Desktop\PILA\PILA CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/10/18 19:29:18.000.239,=C:\Users\A\Desktop\PILA\PILA CSMemoria\UnitCSMemoria.cpp</Transaction>
+    <Transaction>2024/11/14 16:10:37.000.159,=C:\Users\A\Desktop\PILA\PILA CSMemoria\UNIT_COLA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/26 18:29:26.000.478,C:\Users\A\Desktop\PILA Cola\FORM_PILA_Cola.cpp=C:\Users\A\Desktop\PILA Cola\FORM_PILA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/26 18:29:26.000.478,C:\Users\A\Desktop\PILA Cola\FORM_PILA_Cola.dfm=C:\Users\A\Desktop\PILA Cola\FORM_PILA_CSMemoria.dfm</Transaction>
+    <Transaction>2024/11/26 18:29:26.000.478,C:\Users\A\Desktop\PILA Cola\FORM_PILA_Cola.h=C:\Users\A\Desktop\PILA Cola\FORM_PILA_CSMemoria.h</Transaction>
+    <Transaction>2024/11/26 18:29:35.000.659,C:\Users\A\Desktop\PILA Cola\Project_PILA_Cola.cbproj=C:\Users\A\Desktop\PILA Cola\Project_PILA_CSMemoria.cbproj</Transaction>
+    <Transaction>2024/11/26 18:29:35.000.649,C:\Users\A\Desktop\PILA Cola\Project_PILA_ColaPCH1.h=C:\Users\A\Desktop\PILA Cola\Project_PILA_CSMemoriaPCH1.h</Transaction>
+    <Transaction>2024/11/26 18:29:47.000.061,C:\Users\A\Desktop\PILA Cola\UNIT_PILA_Cola.h=C:\Users\A\Desktop\PILA Cola\UNIT_PILA_CSMemoria.h</Transaction>
+    <Transaction>2024/11/26 18:29:47.000.061,C:\Users\A\Desktop\PILA Cola\UNIT_PILA_Cola.cpp=C:\Users\A\Desktop\PILA Cola\UNIT_PILA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/26 18:30:30.000.727,=C:\Users\A\Desktop\PILA Cola\Unit1.cpp</Transaction>
+    <Transaction>2024/11/26 18:30:59.000.312,C:\Users\A\Desktop\PILA Cola\Funciones_Con_PILA.h=C:\Users\A\Desktop\PILA Cola\Unit1.h</Transaction>
+    <Transaction>2024/11/26 18:30:59.000.312,C:\Users\A\Desktop\PILA Cola\Funciones_Con_PILA.cpp=C:\Users\A\Desktop\PILA Cola\Unit1.cpp</Transaction>
+    <Transaction>2024/12/05 16:01:28.000.605,=C:\Users\A\Desktop\ED1 WINNIPEG\6-PILA\PILA Cola\UNIT_DICOLA_CSMemoria.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
