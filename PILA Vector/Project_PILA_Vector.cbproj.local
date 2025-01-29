@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/19 11:58:04.000.891,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/19 11:58:05.000.168,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 11:58:36.000.807,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\A\Desktop\PILA\PILA Vector\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 11:58:36.000.807,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\A\Desktop\PILA\PILA Vector\Unit1.dfm</Transaction>
+    <Transaction>2024/10/19 11:58:36.000.815,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\A\Desktop\PILA\PILA Vector\Project_PILA_Vector.cbproj</Transaction>
+    <Transaction>2024/10/19 11:58:36.000.800,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\A\Desktop\PILA\PILA Vector\Project_PILA_VectorPCH1.h</Transaction>
+    <Transaction>2024/10/19 11:58:36.000.807,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\A\Desktop\PILA\PILA Vector\Unit1.h</Transaction>
+    <Transaction>2024/10/19 11:58:49.000.691,C:\Users\A\Desktop\PILA\PILA Vector\Unit1.dfm=C:\Users\A\Desktop\PILA\PILA Vector\FORM_PILA_Vector.dfm</Transaction>
+    <Transaction>2024/10/19 11:58:49.000.691,C:\Users\A\Desktop\PILA\PILA Vector\Unit1.h=C:\Users\A\Desktop\PILA\PILA Vector\FORM_PILA_Vector.h</Transaction>
+    <Transaction>2024/10/19 11:58:49.000.691,C:\Users\A\Desktop\PILA\PILA Vector\Unit1.cpp=C:\Users\A\Desktop\PILA\PILA Vector\FORM_PILA_Vector.cpp</Transaction>
+    <Transaction>2024/10/19 11:58:53.000.828,=C:\Users\A\Desktop\PILA\PILA Vector\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 11:59:06.000.031,C:\Users\A\Desktop\PILA\PILA Vector\Unit1.cpp=C:\Users\A\Desktop\PILA\PILA Vector\UNIT_PILA_Vector.cpp</Transaction>
+    <Transaction>2024/10/19 11:59:06.000.031,C:\Users\A\Desktop\PILA\PILA Vector\Unit1.h=C:\Users\A\Desktop\PILA\PILA Vector\UNIT_PILA_Vector.h</Transaction>
+  </Transactions>
+</BorlandProject>

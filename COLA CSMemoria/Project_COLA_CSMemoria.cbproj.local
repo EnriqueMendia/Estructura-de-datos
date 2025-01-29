@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/21 17:30:26.000.403,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/21 17:30:26.000.951,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/21 17:31:04.000.582,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.dfm</Transaction>
+    <Transaction>2024/10/21 17:31:04.000.582,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/10/21 17:31:04.000.592,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\A\Desktop\COLA\COLA CSMemoria\Project_COLA_CSMemoria.cbproj</Transaction>
+    <Transaction>2024/10/21 17:31:04.000.568,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\A\Desktop\COLA\COLA CSMemoria\Project_COLA_CSMemoriaPCH1.h</Transaction>
+    <Transaction>2024/10/21 17:31:04.000.582,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/10/21 17:31:18.000.240,C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.dfm=C:\Users\A\Desktop\COLA\COLA CSMemoria\FORM_COLA_CSMemoria.dfm</Transaction>
+    <Transaction>2024/10/21 17:31:18.000.240,C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.h=C:\Users\A\Desktop\COLA\COLA CSMemoria\FORM_COLA_CSMemoria.h</Transaction>
+    <Transaction>2024/10/21 17:31:18.000.240,C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.cpp=C:\Users\A\Desktop\COLA\COLA CSMemoria\FORM_COLA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/10/21 17:33:12.000.085,=C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/10/21 17:33:33.000.342,C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.h=C:\Users\A\Desktop\COLA\COLA CSMemoria\UNIT_COLA_CSMemoria.h</Transaction>
+    <Transaction>2024/10/21 17:33:33.000.342,C:\Users\A\Desktop\COLA\COLA CSMemoria\Unit1.cpp=C:\Users\A\Desktop\COLA\COLA CSMemoria\UNIT_COLA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/10/21 17:33:49.000.480,=C:\Users\A\Desktop\COLA\COLA CSMemoria\UnitCSMemoria.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

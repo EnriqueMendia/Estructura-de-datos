@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/11/07 16:35:18.206,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/07 16:35:18.551,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/07 16:36:15.745,C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\Project_COLA_ListaCSMemoriaPCH1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/07 16:36:15.754,C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\Unit1.cpp=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/07 16:36:15.754,C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\Unit1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/11/07 16:36:15.754,C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\Unit1.dfm=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/11/07 16:36:15.763,C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\Project_COLA_ListaCSMemoria.cbproj=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/11/07 16:36:31.574,C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\FORM_COLA_ListaCSMemoria.dfm=C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\Unit1.dfm</Transaction>
+    <Transaction>2024/11/07 16:36:31.574,C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\FORM_COLA_ListaCSMemoria.cpp=C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/11/07 16:36:31.574,C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\FORM_COLA_ListaCSMemoria.h=C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/11/07 16:36:36.634,=C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/11/07 16:37:07.842,C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\UNIT_COLA_ListaCSMemoria.cpp=C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/11/07 16:37:07.842,C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\UNIT_COLA_ListaCSMemoria.h=C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/11/07 16:40:07.701,=C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\UNIT_Lista_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/07 16:40:07.740,=C:\Users\A\Desktop\COLA\COLA Lista CSMemoria\UnitCSMemoria.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

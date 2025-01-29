@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/18 19:24:50.000.835,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/18 19:24:51.000.110,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/19 16:31:25.000.703,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/19 16:31:26.000.156,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/19 16:31:57.000.314,C:\Users\A\Desktop\COLA\COLA Pila\Project_COLA_PilaPCH1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/19 16:31:57.000.330,C:\Users\A\Desktop\COLA\COLA Pila\Unit1.cpp=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/19 16:31:57.000.330,C:\Users\A\Desktop\COLA\COLA Pila\Unit1.dfm=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/11/19 16:31:57.000.345,C:\Users\A\Desktop\COLA\COLA Pila\Project_COLA_Pila.cbproj=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/11/19 16:31:57.000.330,C:\Users\A\Desktop\COLA\COLA Pila\Unit1.h=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/11/19 16:32:08.000.831,C:\Users\A\Desktop\COLA\COLA Pila\Unit1.cpp=</Transaction>
+    <Transaction>2024/11/19 16:32:14.000.284,=C:\Users\A\Desktop\COLA\COLA Pila\FORM_COLA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/19 16:32:33.000.957,C:\Users\A\Desktop\COLA\COLA Pila\FORM_COLA_Pila.h=C:\Users\A\Desktop\COLA\COLA Pila\FORM_COLA_CSMemoria.h</Transaction>
+    <Transaction>2024/11/19 16:32:33.000.957,C:\Users\A\Desktop\COLA\COLA Pila\FORM_COLA_Pila.dfm=C:\Users\A\Desktop\COLA\COLA Pila\FORM_COLA_CSMemoria.dfm</Transaction>
+    <Transaction>2024/11/19 16:32:33.000.957,C:\Users\A\Desktop\COLA\COLA Pila\FORM_COLA_Pila.cpp=C:\Users\A\Desktop\COLA\COLA Pila\FORM_COLA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/19 16:32:48.000.567,=C:\Users\A\Desktop\COLA\COLA Pila\UnitCSMemoria.cpp</Transaction>
+    <Transaction>2024/11/19 16:33:00.000.724,=C:\Users\A\Desktop\COLA\COLA Pila\UNIT_COLA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/19 16:33:05.000.897,=C:\Users\A\Desktop\COLA\COLA Pila\UNIT_PILA_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/25 16:28:00.000.322,C:\Users\A\Desktop\COLA\COLA Pila\UNIT_COLA_CSMemoria.cpp=C:\Users\A\Desktop\COLA\COLA Pila\UNIT_COLA_Pila.cpp</Transaction>
+    <Transaction>2024/11/25 16:28:00.000.322,C:\Users\A\Desktop\COLA\COLA Pila\UNIT_COLA_CSMemoria.h=C:\Users\A\Desktop\COLA\COLA Pila\UNIT_COLA_Pila.h</Transaction>
+  </Transactions>
+</BorlandProject>

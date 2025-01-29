@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/07 08:28:10.000.349,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/07 08:28:10.000.391,=C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/07 08:28:44.000.694,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\A\Desktop\COLA\COLA Puntero\Unit1.cpp</Transaction>
+    <Transaction>2024/11/07 08:28:44.000.695,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\A\Desktop\COLA\COLA Puntero\Unit1.dfm</Transaction>
+    <Transaction>2024/11/07 08:28:44.000.687,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\A\Desktop\COLA\COLA Puntero\Project_COLA_PunteroPCH1.h</Transaction>
+    <Transaction>2024/11/07 08:28:44.000.694,C:\Users\A\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\A\Desktop\COLA\COLA Puntero\Unit1.h</Transaction>
+    <Transaction>2024/11/07 08:28:44.000.702,C:\Users\A\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\A\Desktop\COLA\COLA Puntero\Project_COLA_Puntero.cbproj</Transaction>
+    <Transaction>2024/11/07 08:28:56.000.009,C:\Users\A\Desktop\COLA\COLA Puntero\Unit1.h=C:\Users\A\Desktop\COLA\COLA Puntero\FORM_COLA_Puntero.h</Transaction>
+    <Transaction>2024/11/07 08:28:56.000.009,C:\Users\A\Desktop\COLA\COLA Puntero\Unit1.cpp=C:\Users\A\Desktop\COLA\COLA Puntero\FORM_COLA_Puntero.cpp</Transaction>
+    <Transaction>2024/11/07 08:28:56.000.009,C:\Users\A\Desktop\COLA\COLA Puntero\Unit1.dfm=C:\Users\A\Desktop\COLA\COLA Puntero\FORM_COLA_Puntero.dfm</Transaction>
+    <Transaction>2024/11/07 08:29:03.000.253,=C:\Users\A\Desktop\COLA\COLA Puntero\Unit1.cpp</Transaction>
+    <Transaction>2024/11/07 08:29:16.000.674,C:\Users\A\Desktop\COLA\COLA Puntero\Unit1.cpp=C:\Users\A\Desktop\COLA\COLA Puntero\UNIT_COLA_Puntero.cpp</Transaction>
+    <Transaction>2024/11/07 08:29:16.000.674,C:\Users\A\Desktop\COLA\COLA Puntero\Unit1.h=C:\Users\A\Desktop\COLA\COLA Puntero\UNIT_COLA_Puntero.h</Transaction>
+  </Transactions>
+</BorlandProject>
